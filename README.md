@@ -1,13 +1,14 @@
 ## 👨‍💼 Experiencia laboral
 
-**Ingeniero QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - actualidad)_</span> <br>
-Consultoría de análisis de calidad e integración continua para clientes de las industrias de seguros y bancaria y para la administración pública.
-  - **_Tareas:_** Análisis, diseño y configuración de modelos de auditoría de calidad en varios proyectos, especialmente análisis de código. Consultoría directa con equipos de desarrollo de clientes, automatización de extracción de datos usando APIs, elaboración de informes personalizados, configuración de pipelines de integración continua
-  - **_Entorno_** Java, Python
-  - **_Herramientas:_** SonarQube, Kiuwan, Jenkins, JIRA
+**Analista TI- Reporting para Talento y Cultura BBVA** en [Abalia Consulting]([[https://www.mtp.es/](https://www.abalia.com/)) <span class="daterange">_(jun 2022 - actualidad)_</span> <br>
+Jefe de equipo para el área de Talento y Cultura BBVA.
+Análisis, toma de requisitos con el cliente, análisis funcional y técnico, desarrollo, implantación y evolutivos de proyectos destinados a la gestión de RRHH del BBVA.
+Proyectos referentes a la gestión de reducciones de jornada, firma digital, ERLs, contratación, reporting,…
+Integración con los servicios de recursos humanos alojados en workday y HR software.
+  - **Sector de actividad:_** Banca
 <br><br> 
 
-**Analista software y QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2022)_</span> <br>
+**Analista en Bilbomática y Sercide** en [Cide](http://www.cide.net/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2022)_</span> <br>
 Solución completa de calidad a medida.
   - **_Tareas:_** Análisis, diseño y configuración de modelos de control de calidad dentro de una migración de checKing a Kiuwan
     - Implementación de reglas custom en Kiuwan que se adapten a requisitos de calidad del BdE
